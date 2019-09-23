@@ -1,0 +1,5 @@
+zuul:
+  routes:
+    provider:
+      path: /demo/**
+      serviceId: webdemo
